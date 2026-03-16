@@ -11,22 +11,19 @@ navigate to live stock charts via TradingView.
 
 Companies Covered
 
-- Amazon (AMZN)
-- Microsoft (MSFT)
-- Google / Alphabet (GOOGL)
-- Meta (META)
+- Amazon 
+- Microsoft 
+- Google 
+- Meta 
 
 Built With
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 Features
 
 - Responsive card layout
 - Click-to-open overlay with company details
 - Direct link to real-time stock charts on TradingView
-
-
-
