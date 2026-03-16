@@ -30,13 +30,3 @@ Features
 
 
 
-Project Structure
-
-├── index.html
-├── style.css
-├── script.js
-└── img/
-    ├── AMAZON.png
-    ├── MICROSOFT.png
-    ├── GOOGLE.png
-    └── META.pngอ
